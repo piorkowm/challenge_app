@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Challenge App
 
 Hello, there! This is a challenge application that will test your practical knowledge of following tools:
@@ -152,3 +153,9 @@ Here's the list of useful resources that might help you on your journey.
 See attached LICENSE.txt file.
 
 Copyright (c) 2014 Monterail.com LLC
+=======
+challenge_app
+=============
+
+Challenge app which allows me to learn more bout Ruby and Rails....
+>>>>>>> 3f4b6bce68b2fb50af8f138afe2f393c6dd4af83
